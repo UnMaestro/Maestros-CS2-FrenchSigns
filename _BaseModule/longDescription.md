@@ -1,34 +1,21 @@
-# Italian Signs WE-Module for Cities: Skylines II  
-## EARLY ACCESS
+# French Signs WE-Module for Cities: Skylines II  
 
-Ciao and Hello!  
-This is a **Write Everywhere module** that brings a collection of **Italian road and traffic signs** into your game.  
-After the creation of the German Signs pack, I’ve was already working on the Italian Sign's. But because of the sudden release of the Dutch Creator Pack I've made the decision to focus on the dutch sign's first. But now I can proudly bring Italy’s beautiful sign system to life!
-
-Currently, this is still an **Early Access version**, focusing mainly on **Traffic Signs** and **Autostrada/Expressway Signs** (including start/end markers, tunnels, and bridges). Like the Dutch Sign's.
-There are already **over 30 layouts** and around **200 images** of authentic signs.  
-
-Future updates will add **more arrows**, **more highway layouts**, and **blue, white, yellow, and brown background signs**, covering every road type in Italy.  
+Bonjour and Hello!  
+This is a **Write Everywhere module** that brings a collection of **French road and traffic signs** into your game.  
 
 ---
 
 ##  Features
--  **Italian traffic and road signs** with realistic layouts and colors  
-- Uses the **Traffic Type Spain** font (must be installed separately)  
-- Includes **over 30 templates/layouts** for Write Everywhere  
-- Around **200 sign images** available  
-- Toll Signs! NEW in Version 0.4.0 
+-  **French road signs** with realistic layouts and colors
+- Uses the **Traffic Type Spain** font (must be installed separately)
+- Includes **over 0 templates/layouts** for Write Everywhere
+- Around **0 sign images** available
 
 ###  Road Sign Types (currently available)
-- **Traffic Signs** – Warning, prohibition, mandatory, and more  
-- **Autostrada / Expressway Signs** – Green and Blue signs for start, end, tunnel, and bridge markings  
-- **Miscellaneous Signs and Symbols** – Icons and extra templates for flexible use  
+- 
 
 #### Planned for future updates:
-- **Blue and Green Road Signs**  
-- **White, Yellow, and Brown Directional and Misc Signs**  
-- **Additional Arrows and Layouts**  
-- **More templates and customization options**
+- 
 
 ---
 
@@ -95,7 +82,10 @@ For copyright reasons, the font is **not included** and must be installed manual
 
 ##  Check out my other Signs Modules
 - [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)  
-- [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)  
+- [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)
+- [Italian Signs](https://mods.paradoxplaza.com/mods/120627/Windows)  
+- [Swiss Signs]()
+- [Spanish Signs]()
 
 ---
 
