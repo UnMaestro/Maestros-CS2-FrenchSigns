@@ -1,21 +1,24 @@
 # French Signs WE-Module for Cities: Skylines II  
+## SERIE B SIGNS PACK
 
 Bonjour and Hello!  
-This is a **Write Everywhere module** that brings a collection of **French road and traffic signs** into your game.  
+This is a **Write Everywhere module** that brings **French road and traffic signs** into your game.  
 
 ---
 
 ##  Features
 -  **French road signs** with realistic layouts and colors
-- Uses the **Traffic Type Spain** font (must be installed separately)
-- Includes **over 0 templates/layouts** for Write Everywhere
-- Around **0 sign images** available
+- Uses the **Caracteres L1&L4** font (must be installed separately)
+- Includes **over 47 templates/layouts** for Write Everywhere
+- Around **288 sign images** available
 
 ###  Road Sign Types (currently available)
-- 
+- Autoroute
+- Traffic Signs
+- Extra Signs
 
 #### Planned for future updates:
-- 
+- Green Road(?) Signs
 
 ---
 
@@ -27,7 +30,7 @@ This is a **Write Everywhere module** that brings a collection of **French road 
   - Height/width restrictions  
   - Arrows and directions  
 
-- Combined sign templates will be added in future updates for even more flexibility  
+- Combined sign templates for more oder.  
 
 ---
 
@@ -39,7 +42,7 @@ This is a **Write Everywhere module** that brings a collection of **French road 
 4. Click the structure you want to edit.  
 5. Click **Import layout from XML at root...**  
 6. Choose the puzzle-piece icon (*Templates from mods*).  
-7. Search for the **Italian Signs Mod**.  
+7. Search for the **French Signs** Mod.  
 8. Select a layout and customize it to your liking.  
 
 ### Customize and Save Signs
@@ -57,17 +60,17 @@ This is a **Write Everywhere module** that brings a collection of **French road 
 
 ###  Fonts
 
-This mod uses the road signage typeface **Traffic Type Spain**. I tried searching for the original Font for Italian sign's, but it seems the goverment have this Font on private.
+This mod uses the road signage typeface **Caracteres L1 and L4**. 
 For copyright reasons, the font is **not included** and must be installed manually.
 
-##### You can find it [here](https://www.onlinewebfonts.com/download/f820971323ed634d5ef50513e34fbd3c)
+##### You can find it [here](https://de.ffonts.net/Caracteres-L1.font?text=00000das1)
 
 #### How to install the font
-1. Download the **Traffic Type Spain** font file (`.ttf`).  
+1. Download the **Caracteres** font file (`.ttf`).  
 2. Go to your local Cities: Skylines II mods folder:  
    `\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts`  
    *(if the `fonts` folder doesn’t exist, create it manually)*  
-3. Place the `.ttf` file inside this folder.  
+3. Place the `.ttf` files inside this folder.  
 4. Start the game and load your city.  
 5. Open **City Fonts** (click the “W” icon on the top-left).  
 6. Press `+` and select your downloaded font.  
@@ -80,12 +83,21 @@ For copyright reasons, the font is **not included** and must be installed manual
 
 ---
 
-##  Check out my other Signs Modules
-- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)  
+##  Check out my other Signs/Overrider Modules
+### Serie A
+- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)
+- [German OVerrider](https://mods.paradoxplaza.com/mods/123745/Windows)
 - [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)
-- [Italian Signs](https://mods.paradoxplaza.com/mods/120627/Windows)  
-- [Swiss Signs]()
-- [Spanish Signs]()
+- [Dutch Overrider]()
+- [Italian Signs](https://mods.paradoxplaza.com/mods/121615/Windows)
+- [Italian Overrider](https://mods.paradoxplaza.com/mods/124269/Windows)
+
+### Serie B
+- [Swiss Signs](https://mods.paradoxplaza.com/mods/124288/Windows)
+- [Swiss Overrider](https://mods.paradoxplaza.com/mods/123563/Windows)
+- [French Overrider](https://mods.paradoxplaza.com/mods/123893/Windows)
+- [Spanish Signs](https://mods.paradoxplaza.com/mods/124290/Windows)
+- [Spanish Overrider]()
 
 ---
 

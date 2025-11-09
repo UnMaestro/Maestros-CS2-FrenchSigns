@@ -17,13 +17,13 @@
 
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
-    <ModId></ModId>
-    <Version>1.0.0</Version>
+    <ModId>124289</ModId>
+    <Version>1.0.1</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
     <DisplayName>French Signs (WE-Module)</DisplayName>
     <ShortDescription>A WriteEverywhere-Module that give the ability to place, create or edit French Signs</ShortDescription>
-    <ForumLink></ForumLink>
+    <ForumLink>https://forum.paradoxplaza.com/forum/threads/french-signs-we-module.1869839</ForumLink>
     <GitHubLink>https://github.com/UnMaestro/Maestros-CS2-FrenchSigns</GitHubLink>
     <YoutubeLink></YoutubeLink>
     <KofiLink></KofiLink>
