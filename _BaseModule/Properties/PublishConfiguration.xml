@@ -3,7 +3,6 @@
   <DisplayName Value="French Signs (WE-Module)" />
   <ShortDescription Value="A WriteEverywhere-Module that give the ability to place, create or edit French Signs" />
   <LongDescription># French Signs WE-Module for Cities: Skylines II  
-## SERIE B SIGNS PACK
 
 Bonjour and Hello!  
 This is a **Write Everywhere module** that brings **French road and traffic signs** into your game.  
@@ -11,54 +10,42 @@ This is a **Write Everywhere module** that brings **French road and traffic sign
 ---
 
 ##  Features
--  **French road signs** with realistic layouts and colors
-- Uses the **Caracteres L1&amp;L4** font (must be installed separately)
 - Includes **over 47 templates/layouts** for Write Everywhere
 - Around **288 sign images** available
+- Road Sign Types:
+    - Autoroute
+    - Traffic Signs
+    - Extra Signs
 
-###  Road Sign Types (currently available)
-- Autoroute
-- Traffic Signs
-- Extra Signs
-
-#### Planned for future updates:
-- Green Road(?) Signs
-
----
-
-###  Traffic Signs
-- Includes standard Italian road signs used nationwide  
-- Many signs share common prefabs for better organization and less clutter  
-- Configurable variables for:
-  - Distances  
-  - Height/width restrictions  
-  - Arrows and directions  
-
-- Combined sign templates for more oder.  
+### Planned for future updates:
+- National and Local Road Signs
 
 ---
 
 ##  How to Use
 
-1. Install all required mods listed below.  
-2. Place a road structure that matches your sign type.  
-3. Open the **Write Everywhere** menu (`CTRL + Shift + W`).  
-4. Click the structure you want to edit.  
-5. Click **Import layout from XML at root...**  
-6. Choose the puzzle-piece icon (*Templates from mods*).  
-7. Search for the **French Signs** Mod.  
-8. Select a layout and customize it to your liking.  
+1. Install the **Requirements** needed for this mod.
+3. Place a matching road structure in-game.  
+4. Open **Write Everywhere** Selector (Default: `CTRL + Shift + W`).
+4. Click on the structure you wanna edit.  
+5. Click on the Folder Icon(*Import/load...*)
+5. Click on `Import layout from xml at root...`
+6. Click on the puzzle-piece(*Templates from mods*)
+7. Click on `"MaestroFrenchSigns"`
+8. Choose the desired template and customize it.  
 
 ### Customize and Save Signs
 - Select the root object → **Save &amp; Export as XML**  
 - Templates can be reused across cities and saves.  
 - All templates are stored locally so no re-import required.  
 
+[WriteEverywhere Video Tutorial by **chaosfun**](https://youtu.be/3tMR103ZeXA?si=8jKUmQMBtP6YZcpj) is also a good help.
+
 ---
 
 ##  Requirements
 - [Write Everywhere](https://mods.paradoxplaza.com/mods/92908/Windows) – required  
-- [Highway Sign Structures](https://mods.paradoxplaza.com/mods/113261/Windows) – optional but recommended  
+- [Highway Sign Structures](https://mods.paradoxplaza.com/mods/127499/any) – optional but recommended  
 
 ---
 
@@ -67,12 +54,12 @@ This is a **Write Everywhere module** that brings **French road and traffic sign
 This mod uses the road signage typeface **Caracteres L1 and L4**. 
 For copyright reasons, the font is **not included** and must be installed manually.
 
-##### You can find it [here](https://de.ffonts.net/Caracteres-L1.font?text=00000das1)
+#### You can find it [here](https://de.ffonts.net/Caracteres-L1.font?text=00000das1)
 
-#### How to install the font
+### How to install the font
 1. Download the **Caracteres** font file (`.ttf`).  
 2. Go to your local Cities: Skylines II mods folder:  
-   `\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts`  
+   `\Cities Skylines II\ModsData\.Klyte45Mods\WriteEverywhere\fonts`  
    *(if the `fonts` folder doesn’t exist, create it manually)*  
 3. Place the `.ttf` files inside this folder.  
 4. Start the game and load your city.  
@@ -87,40 +74,35 @@ For copyright reasons, the font is **not included** and must be installed manual
 
 ---
 
-##  Check out my other Signs/Overrider Modules
-### Serie A
-- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)
-- [German OVerrider](https://mods.paradoxplaza.com/mods/123745/Windows)
-- [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)
-- [Dutch Overrider]()
-- [Italian Signs](https://mods.paradoxplaza.com/mods/121615/Windows)
-- [Italian Overrider](https://mods.paradoxplaza.com/mods/124269/Windows)
+## Check out the corrosponding Vanilla Sign Overrider or other Packs
+- [French Vanilla Overrider](https://mods.paradoxplaza.com/mods/124290/Windows)
+- [Other Packs](https://mods.paradoxplaza.com/authors/UnMaestro)
 
-### Serie B
-- [Swiss Signs](https://mods.paradoxplaza.com/mods/124288/Windows)
-- [Swiss Overrider](https://mods.paradoxplaza.com/mods/123563/Windows)
-- [French Overrider](https://mods.paradoxplaza.com/mods/123893/Windows)
-- [Spanish Signs](https://mods.paradoxplaza.com/mods/124290/Windows)
-- [Spanish Overrider]()
 
 ---
 
 ##  Special Thanks
 - To **Klyte45** for the WriteEverywhere mod and templates.  
 - To **lolok** for the Highway Sign Structures.  
+- To chaosfun for his WriteEverywhere Video Tutorials
 
 ---
 
 ##  Enjoy &amp; Share Your Feedback!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/french-signs-we-module.1869839" />
-  <ModVersion Value="1.0.2" />
+  <ModVersion Value="1.0.3" />
   <GameVersion Value="1.*" />
-  <ChangeLog>Compatibility for game update 1.5.2f1</ChangeLog>
+  <ChangeLog>## v.1.0.3 Update
+### Fixes
+- Fixed Backside not render Issue that came up with WE's Update that disabled "RenderBackface" the be on by default 
+	- ! **This applies ONLY for new imported layouts, already placed layouts will either have to be reimported or edited(If affected). The edit necessary would be 
+	to flip the backside 180�**!</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
   <Screenshot Value="Screenshots\Screenshot_2.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
-  <Dependency Id="113261" ModVersion="" DisplayName="Highway Sign Structures" />
   <ExternalLink Type="github" Url="https://github.com/UnMaestro/Maestros-CS2-FrenchSigns" />
+  <ExternalLink Type="discord" Url="https://discord.com/channels/1024242828114673724/1446097301775843488" />
+  <ExternalLink Type="paypal" Url="https://www.paypal.com/paypalme/pas1800" />
 </Publish>
